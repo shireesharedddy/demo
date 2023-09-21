@@ -1,4 +1,5 @@
 # demo
 This is my first Git Repository.
 <br>
-Author - Shireesha Reddy
+Author - Shireesha Reddy (student)
+
